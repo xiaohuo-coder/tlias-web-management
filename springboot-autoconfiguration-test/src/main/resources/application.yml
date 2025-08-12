@@ -2,6 +2,6 @@
 aliyun:
   oss:
     endpoint: https://oss-cn-hangzhou.aliyuncs.com
-    accessKeyId: LTAI5tNt81zZ6kJDKihR3Vx3
-    accessKeySecret: gZFyTStXdVdOnoemhNixysl8MT2vel
+    accessKeyId: LTAI5tNt81zZ6kJDKihR3Vx4
+    accessKeySecret: gZFyTStXdVdOnoemhNixysl8MT2vel4
     bucketName: web-tlias-xiaohuo
