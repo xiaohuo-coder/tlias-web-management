@@ -1,0 +1,2 @@
+
+这些更改将确保application.yml中的配置能够正确绑定到AliOSSProperties类，从而解决凭据无法读取的问题。

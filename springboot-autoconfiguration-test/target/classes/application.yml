@@ -1,0 +1,7 @@
+#阿里云oss配置
+aliyun:
+  oss:
+    endpoint: https://oss-cn-hangzhou.aliyuncs.com
+    accessKeyId: LTAI5tNt81zZ6kJDKihR3Vx3
+    accessKeySecret: gZFyTStXdVdOnoemhNixysl8MT2vel
+    bucketName: web-tlias-xiaohuo
